@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-tile-bridge
+Version: 0.1.0
+Summary: Tile bridge — C/Rust/Python format conversion, 384-byte binary layout
+License: MIT
+Requires-Python: >=3.8
